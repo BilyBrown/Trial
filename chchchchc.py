@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # for main
 # little branch
 # i am not sure why this won't work
 #agaun
+=======
+# a new branch?
+>>>>>>> f9d316c28c7c83a5a67988c4a724884c0e1d52b1
 
 import bs4 as bs
 import urllib.request
